@@ -1,0 +1,4 @@
+#By changing the setting below to TRUE you are indicating your agreement to our EULA (https://aka.ms/MinecraftEULA).
+#Thu Aug 22 20:57:59 UTC 2024
+eula=true
+#EULAです。編集したら鯖動かないです
